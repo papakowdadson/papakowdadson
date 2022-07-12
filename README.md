@@ -21,17 +21,20 @@
 
 <img  alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
 
--##🌱 I am currently learning 
+🌱 I am currently learning: 
 
-<img  align="left" alt=JavaScript src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-<img  alt=React src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-<img  alt=wakatime stats src="https://github-readme-stats.vercel.app/api/wakatime?username=papakowdadson"/>
+<img  alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=papakowdadson"/>
 
 ## 📫 Reach me on:
 <a href="https://www.linkedin.com/in/papa-kow-dadson-57b80b182">
-  <img alt=LinkedIn src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/">
+  <img alt=LinkedIn src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://twitter.com/papadadson56">
+  <img alt=Twitter src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
 
 
