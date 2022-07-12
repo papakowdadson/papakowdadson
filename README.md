@@ -27,7 +27,12 @@
 
 <img  alt=React src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
-<img align="left" alt=wakatime stats src="https://github-readme-stats.vercel.app/api/wakatime?username=papakowdadson"/>
+<img  alt=wakatime stats src="https://github-readme-stats.vercel.app/api/wakatime?username=papakowdadson"/>
+
+## 📫 Reach me on:
+<a href="https://www.linkedin.com/in/papa-kow-dadson-57b80b182">
+  <img alt=LinkedIn src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/">
+</a>
 
 
 <!--
