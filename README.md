@@ -34,11 +34,12 @@
 <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </p>
 
-💻 Some stats about me
+### 💻 Some stats about me
 <p>
-<!-- [![dadson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=papakowdadson&count_private=true&theme=cobalt&langs_count=10)](https://github.com/pee47kay) -->
+  
+[![dadson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=papakowdadson&count_private=true&theme=cobalt&langs_count=10)](https://github.com/pee47kay)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pee47kay&lang_count=10&theme=cobalt)](https://github.com/pee47kay)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pee47kay&lang_count=10&theme=cobalt)](https://github.com/pee47kay)
 </p>
 
 
