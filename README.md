@@ -36,7 +36,7 @@
 
 💻 Some stats about me
 <p>
-[![dadson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=papakowdadson&count_private=true&theme=cobalt&langs_count=10)](https://github.com/pee47kay)
+<!-- [![dadson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=papakowdadson&count_private=true&theme=cobalt&langs_count=10)](https://github.com/pee47kay) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pee47kay&lang_count=10&theme=cobalt)](https://github.com/pee47kay)
 </p>
