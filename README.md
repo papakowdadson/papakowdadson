@@ -1,7 +1,7 @@
 # Hi there, I am Dadson 👋
 ### On a journey to frontend development
 <p>
-<img   src="https://github-readme-stats.vercel.app/api?username=pee47kay&show_icons=true&theme=radical"/>
+<img   src="https://github-readme-stats.vercel.app/api?username=papakowdadson&show_icons=true&theme=radical"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pee47kay&layout=compact"/> -->
 </p>
 
@@ -37,9 +37,9 @@
 ### 💻 Some stats about me
 <p>
   
-[![dadson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=papakowdadson&count_private=true&theme=cobalt&langs_count=10)](https://github.com/pee47kay)
+[![dadson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=papakowdadson&count_private=true&theme=cobalt&langs_count=10)](https://github.com/papakowdadson)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pee47kay&lang_count=10&theme=cobalt)](https://github.com/pee47kay)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papakowdadson&lang_count=10&theme=cobalt)](https://github.com/papakowdadson)
 </p>
 
 
