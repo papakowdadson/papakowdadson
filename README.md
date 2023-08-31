@@ -47,7 +47,7 @@
 ### 💻 Some stats about me
 <p>
   
-[![dadson's wakatime stats](https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=papakowdadson&count_private=true&theme=cobalt&langs_count=10)](https://github.com/papakowdadson)
+[![dadson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=papakowdadson&count_private=true&theme=cobalt&langs_count=10)](https://github.com/papakowdadson)
 
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=papakowdadson&lang_count=10&theme=cobalt)](https://github.com/papakowdadson)
 </p>
