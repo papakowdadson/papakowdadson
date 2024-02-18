@@ -20,11 +20,15 @@
 
 <img  alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
+<img  alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%23563D7C.svg?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
 <img  alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 <img  alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   
 <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+<img  alt="Flutter" src="https://img.shields.io/badge/flutter-%23563D7C.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
   
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
@@ -40,6 +44,7 @@
   
 <img  alt="NodeJs" src="https://img.shields.io/badge/Nodejs-%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
 <img  alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=TypeScript&logoColor=%2361DAFB"/>
+<img  alt="PHP" src="https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=PHP&logoColor=%2361DAFB"/>
 <img  alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDB&logoColor=%2361DAFB"/>
 
 </p>
@@ -51,6 +56,18 @@
 
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=papakowdadson&lang_count=10&theme=cobalt)](https://github.com/papakowdadson)
 </p>
+
+
+## 🔭 I’m currently working on:
+<a href="https://play.google.com/store/apps/details?id=com.aimscommunity.trofare&hl=en_US">
+  <h3>Trofare</h3>
+  <p>Digitizing Public Transportaion | Reducing Wait Time | Ensuring Public Safetey | Promoting Financial Inclusion | MaaS </p>
+</a>
+
+<a href="https://i.ayo.ba/dQjW/salv">
+  <h3>SalvageMe Initiative</h3>
+  <p> Creating a Renewable Ecosystem of Educational Materials </p>
+</a>
 
 
 
