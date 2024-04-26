@@ -29,6 +29,11 @@
 <img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 <img  alt="Flutter" src="https://img.shields.io/badge/flutter-%23563D7C.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img  alt="NodeJs" src="https://img.shields.io/badge/Nodejs-%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
+<img  alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=TypeScript&logoColor=%2361DAFB"/>
+<img  alt="PHP" src="https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=PHP&logoColor=%2361DAFB"/>
+<img  alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDB&logoColor=%2361DAFB"/>
   
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
@@ -42,10 +47,7 @@
 
 <p>
   
-<img  alt="NodeJs" src="https://img.shields.io/badge/Nodejs-%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
-<img  alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=TypeScript&logoColor=%2361DAFB"/>
-<img  alt="PHP" src="https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=PHP&logoColor=%2361DAFB"/>
-<img  alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDB&logoColor=%2361DAFB"/>
+<img  alt="NextJs" src="https://img.shields.io/badge/NextJS-%2320232a.svg?style=for-the-badge&logo=NextJS&logoColor=%2361DAFB"/>
 
 </p>
 
