@@ -1,5 +1,5 @@
 # Hi there, I am Dadson 👋
-### On a journey to frontend development
+### On a journey to Software Development
 <p>
 <img   src="https://github-readme-stats-sigma-five.vercel.app/api?username=papakowdadson&show_icons=true&theme=radical"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pee47kay&layout=compact"/> -->
