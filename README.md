@@ -6,10 +6,6 @@
   </span>
   <br>
   <span>
-    - 🌱 I’m currently learning NextJS
-  </span>
-  <br>
-  <span>
     - 👯 I’m looking to collaborate on any interesting project.
   </span>
 </p>
@@ -46,7 +42,7 @@
   
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
-<br>
+
 
 ### 🌱 I am currently learning: 
 <p>
