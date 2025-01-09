@@ -1,19 +1,24 @@
-# Hi there, I am Dadson 👋
+# Hi👋 there, I am Dadson
 ### On a journey to Software Engineering
+<ul>
+  <li>
+    🔭 I’m currently working on <a href="https://salvage-me.vercel.app/">SalvageMe Initiative</a> - a book exchange portal to promote educational equity and accessibility.
+  </li>
+  <li>
+    👯 I’m looking to collaborate on any interesting project.
+  </li>
+</ul>
 <p>
-  <span>
-    - 🔭 I’m currently working on a book exchange portal to promote educational equity and accessibility.
-  </span>
-  <br>
-  <span>
-    - 👯 I’m looking to collaborate on any interesting project.
-  </span>
+  <a href="https://wakatime.com/@f2284d1e-efa6-4e55-b341-58ef51685895">
+    <img src="https://wakatime.com/badge/user/f2284d1e-efa6-4e55-b341-58ef51685895.svg" alt="Total time coded since Jul 12 2022" />
+  </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=papakowdadson&label=Profile%20views&color=0e75b6&style=flat" alt="papakowdadson" />
+  </a>
 </p>
 
-### Technologies
+### Skills
 <p>
-<img  alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <!--
 <img  alt="Adobe Photoshop" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
 -->
@@ -35,10 +40,11 @@
 
 <img  alt="Flutter" src="https://img.shields.io/badge/flutter-%23563D7C.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
 
-<img  alt="NodeJs" src="https://img.shields.io/badge/Nodejs-%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB"/>
+<img  alt="ExpressJs" src="https://img.shields.io/badge/expressjs-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img  alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=TypeScript&logoColor=%2361DAFB"/>
 <img  alt="PHP" src="https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=PHP&logoColor=%2361DAFB"/>
 <img  alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDB&logoColor=%2361DAFB"/>
+<img  alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
@@ -46,7 +52,8 @@
 
 ### 🌱 I am currently learning: 
 <p>
-<img  alt="NextJs" src="https://img.shields.io/badge/NextJS-%2320232a.svg?style=for-the-badge&logo=NextJS&logoColor=%2361DAFB"/>
+<img  alt="NextJs" src="https://img.shields.io/badge/NextJS-%2320232a.svg?style=for-the-badge&logo=next&logoColor=%2361DAFB"/>
+<img  alt="Dotnet" src="https://img.shields.io/badge/Dotnet-%2320232a.svg?style=for-the-badge&logo=dotnet&logoColor=%2361DAFB"/>
 </p>
 
 ### 💻 Some stats about me
@@ -60,14 +67,6 @@
 
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=papakowdadson&lang_count=10&theme=cobalt)](https://github.com/papakowdadson)
 
-  <p>
-    <a href="https://wakatime.com/@f2284d1e-efa6-4e55-b341-58ef51685895">
-      <img src="https://wakatime.com/badge/user/f2284d1e-efa6-4e55-b341-58ef51685895.svg" alt="Total time coded since Jul 12 2022" />
-    </a>
-    <a>
-      <img src="https://komarev.com/ghpvc/?username=papakowdadson&label=Profile%20views&color=0e75b6&style=flat" alt="papakowdadson" />
-    </a>
-  </p>
 </p>
 
 
@@ -77,7 +76,7 @@
   <p>Digitizing informal Public Transportaion | Reducing Wait Time | Ensuring Public Safetey | Promoting Financial Inclusion | MaaS </p>
 </a>
 
-<a href="https://i.ayo.ba/dQjW/salv">
+<a href="https://salvage-me.vercel.app/">
   <h3>SalvageMe Initiative</h3>
   <p> Creating a Renewable Ecosystem of Educational Materials </p>
 </a>
