@@ -40,13 +40,13 @@
 
 <img  alt="Flutter" src="https://img.shields.io/badge/flutter-%23563D7C.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img  alt="ExpressJs" src="https://img.shields.io/badge/expressjs-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img  alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=TypeScript&logoColor=%2361DAFB"/>
 <img  alt="PHP" src="https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=PHP&logoColor=%2361DAFB"/>
 <img  alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDB&logoColor=%2361DAFB"/>
 <img  alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
 
