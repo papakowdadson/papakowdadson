@@ -69,6 +69,9 @@
 
 </p>
 
+### Trophies
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papakowdadson&theme=onedark" alt="Papa Kow Dadson Trophies" /></a> </p>
+
 
 ## 🔭 I’m currently working on:
 <a href="https://play.google.com/store/apps/details?id=com.aimscommunity.trofare&hl=en_US">
