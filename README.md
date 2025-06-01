@@ -5,6 +5,9 @@
     🔭 I’m currently working on <a href="https://salvage-me.vercel.app/">SalvageMe Initiative</a> - a book exchange portal to promote educational equity and accessibility.
   </li>
   <li>
+     Also building <a href="https://play.google.com/store/apps/details?id=com.aimscommunity.trofare&hl=en_US">Trofare</a> - Making real-time public transport (trotro) information readily accessible.
+  </li>
+  <li>
     👯 I’m looking to collaborate on any interesting project.
   </li>
 </ul>
