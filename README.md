@@ -46,7 +46,7 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img  alt="ExpressJs" src="https://img.shields.io/badge/expressjs-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img  alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=TypeScript&logoColor=%2361DAFB"/>
-<img  alt="PHP" src="https://img.shields.io/badge/PHP-%2320232a.svg?style=for-the-badge&logo=PHP&logoColor=%2361DAFB"/>
+<img  alt="Java" src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DAFB"/>
 <img  alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=MongoDB&logoColor=%2361DAFB"/>
 <img  alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   
@@ -56,7 +56,7 @@
 ### 🌱 I am currently learning: 
 <p>
 <img  alt="NextJs" src="https://img.shields.io/badge/NextJS-%2320232a.svg?style=for-the-badge&logo=next&logoColor=%2361DAFB"/>
-<img  alt="Dotnet" src="https://img.shields.io/badge/Dotnet-%2320232a.svg?style=for-the-badge&logo=dotnet&logoColor=%2361DAFB"/>
+<img  alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-%2320232a.svg?style=for-the-badge&logo=SpringBoot&logoColor=%2361DAFB"/>
 </p>
 
 ### 💻 Some stats about me
